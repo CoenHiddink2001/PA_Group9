@@ -1,0 +1,23 @@
+[project]
+name = "jads"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "captum>=0.8.0",
+    "datasets>=4.5.0",
+    "haversine>=2.9.0",
+    "ipykernel>=7.2.0",
+    "lime>=0.2.0.1",
+    "matplotlib>=3.10.8",
+    "networkx>=3.6.1",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pyvis>=0.3.2",
+    "scikit-datasets>=0.2.5",
+    "seaborn>=0.13.2",
+    "shap>=0.49.1",
+    "transformers>=5.2.0",
+    "xgboost>=3.2.0",
+]
